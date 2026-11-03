@@ -1,7 +1,7 @@
 /* 매출 기록장 서비스 워커
    새 버전을 올릴 때 아래 VERSION 숫자가 바뀌면(index.html의 VERSION과 같이),
    열어 둔 앱에 "새로운 패치 있습니다" 팝업이 떠요. */
-var VERSION = '1.0.3';
+var VERSION = '1.1.0';
 var CACHE = 'mg-' + VERSION;
 var FILES = ['./', './index.html', './manifest.json', './pwa.js',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
